@@ -28,7 +28,6 @@ Code, pretrained checkpoints, and evaluation scripts will be released upon publi
 ## ⌛ Release plan
 
 - [ ] Paper / arXiv link
-- [ ] Inference code and pretrained checkpoints
 - [ ] Training code
 - [ ] Evaluation scripts
 
