@@ -46,4 +46,4 @@ Citation information will be added once the paper is publicly available.
 
 ## 📬 Contact
 
-For questions, please open an issue or contact [Seungjun Yu](mailto:sjyu001@gmail.com).
+For questions, please open an issue or contact [Seungjun Yu](mailto:seungjunyu@kaist.ac.kr).
